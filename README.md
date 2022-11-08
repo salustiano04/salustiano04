@@ -1,4 +1,4 @@
-- 👋Olá meu nme é @salustiano04
+- 👋Olá meu nome é @salustiano04
 - :+1:meu email de contato é nathan.salustiano.ferreira@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguegem de JavaScript e Scratch
